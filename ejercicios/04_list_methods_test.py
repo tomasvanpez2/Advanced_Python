@@ -83,4 +83,4 @@ print(referencia)
 
 lista4 = ["Manzana", "pera", "BANANA", "naranja"]
 lista4.sort(key= str.lower)
-
+print(lista4)
